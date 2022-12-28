@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### - [Email](mailto:yueximo09@gmail.com) - [LinkedIn](https://www.linkedin.com/in/yueximo/)=
+#### - [Email](mailto:yueximo09@gmail.com) - [LinkedIn](https://www.linkedin.com/in/yueximo/)
 
 Hello, my name is YueXi Mo, a junior studying computer science at Northwestern University!
 
