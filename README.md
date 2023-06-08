@@ -9,5 +9,5 @@ Hello, my name is YueXi Mo, a junior studying computer science at Northwestern U
 - SWE Intern @ Datadog 🐶 - Winter 2023
 - SWE Intern @ JPMorgan Chase 🏦 - Summer 2022
 
-Feel free to reach out to me for interesting <s>lucrative</s> opportunities through email at yueximo09@gmail.com
+Feel free to reach out to me for interesting opportunities through email at yueximo09@gmail.com
 
