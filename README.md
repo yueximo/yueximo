@@ -8,6 +8,3 @@ Hello, my name is YueXi Mo, a senior studying computer science at Northwestern U
 - SDE Intern @ Amazon 📦 - Summer 2023
 - SWE Intern @ Datadog 🐶 - Winter 2023
 - SWE Intern @ JPMorgan Chase 🏦 - Summer 2022
-
-Feel free to reach out to me for interesting opportunities through email at yueximo09@gmail.com
-
